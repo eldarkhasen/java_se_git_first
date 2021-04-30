@@ -8,6 +8,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int i = in.nextInt();
         System.out.println(i*i);
-
+        int n = in.nextInt();
+        System.out.println(n*i);
     }
 }
